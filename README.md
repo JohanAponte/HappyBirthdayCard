@@ -5,6 +5,6 @@ This project was compiled for Android, simply shows a text and a image. Was made
 
 Also, the string resources were changed to adapt the app into other languages as french, spanish, english and portuguese.
 
-If you want to ckeck out the resources and the process you can click [here](https://developer.android.com/courses/android-basics-kotlin/course).
+If you want to check out the resources and the process you can click [here](https://developer.android.com/courses/android-basics-kotlin/course).
 
 
